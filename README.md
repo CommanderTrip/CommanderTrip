@@ -3,7 +3,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5cxmt9466x9fvkk34btttgig7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=2493f7&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## Focus Areas
-<img align='right' src=''>
+<img align='right' src='https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/images/ffxiv-fat-cat.gif'>
 
 ### Mobile
 <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/kotlin.png" alt="Kotlin"/> in 
@@ -21,14 +21,11 @@
 <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/>
 
 ## Additional Exposure Areas
-<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/java.png" alt="Java"/><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/python.png" alt="Python"/><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/lua.png" alt="Lua"/><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/r.png" alt="R"/><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/unity.png" alt="Unity"/>
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/java.png" alt="Java"/> <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/python.png" alt="Python"/> <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/lua.png" alt="Lua"/> <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/r.png" alt="R"/> <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/unity.png" alt="Unity"/>
 
-<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c.png" alt="C"/> /
-<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c%2B%2B.png" alt="C++"/> /
-<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/csharp.png" alt="C#"/>
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c.png" alt="C"/> <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c%2B%2B.png" alt="C++"/> <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/csharp.png" alt="C#"/>
 
-<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure.png" alt="Azure Cloud"/> and 
-<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure_devops.png" alt="Azure DevOps"/>
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure.png" alt="Azure Cloud"/> <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure_devops.png" alt="Azure DevOps"/>
 
 ## Favorite Games
 - Final Fantasy 14
