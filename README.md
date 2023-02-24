@@ -3,10 +3,10 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5cxmt9466x9fvkk34btttgig7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=2493f7&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## Focus Areas
-<img align='right' src='https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/images/ffxiv-fat-cat.gif'>
+<img align='right' width="200" src='https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/images/ffxiv-fat-cat.gif'>
 
 ### Mobile
-<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/kotlin.png" alt="Kotlin"/> in 
+<a href="https://kotlinlang.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/kotlin.png" alt="Kotlin"/></a> in 
 <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/android.png" alt="Android"/>
 
 ### Web
@@ -34,11 +34,5 @@
 - Forza
 - League of Legends
 
-<!--START_SECTION:waka-->
-```text
-```
-<!--END_SECTION:waka-->
-
 ## Github Stats
 ![Trip's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommanderTrip&show_icons=true&theme=default)
-
