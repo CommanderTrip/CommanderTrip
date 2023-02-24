@@ -5,30 +5,34 @@
 ## Focus Areas
 <img align='right' src=''>
 
-<code><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/kotlin.png" alt="Kotlin"/></code> in 
-<code><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/android.png" alt="Android"/></code>
+### Mobile
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/kotlin.png" alt="Kotlin"/> in 
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/android.png" alt="Android"/>
 
-<code><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/typescript.png" alt="Typescript"/></code>/
-<code><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/javascript.png" alt="Javascript"/></code>, 
-<code><img alt="HTML"/>, <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/css3.png" alt="CSS"/></code>/
-<code><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/sass.png" alt="SASS"/></code> in 
-<code><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/react.png" alt="React"/>
+### Web
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/typescript.png" alt="Typescript"/>/
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/javascript.png" alt="Javascript"/>, 
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/html5.png" alt="HTML"/>, 
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/css3.png" alt="CSS"/>/
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/sass.png" alt="SASS"/> in 
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/react.png" alt="React"/>
 
-<code><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/>
+### Desktop
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/>
 
 ## Additional Exposure Areas
-<code><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/java.png" alt="Java"/></code>
-<code><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/python.png" alt="Python"/></code>
-<code><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/lua.png" alt="Lua"/></code>
-<code><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/r.png" alt="R"/></code>
-<code><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/unity.png" alt="Unity"/></code>
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/java.png" alt="Java"/>
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/python.png" alt="Python"/>
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/lua.png" alt="Lua"/>
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/r.png" alt="R"/>
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/unity.png" alt="Unity"/>
 
-<code><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c.png" alt="C"/></code> /
-<code><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c%2B%2B.png" alt="C++"/></code> /
-<code><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/csharp.png" alt="C#"/></code>
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c.png" alt="C"/> /
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c%2B%2B.png" alt="C++"/> /
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/csharp.png" alt="C#"/>
 
-<code><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure.png" alt="Azure Cloud"/></code> and 
-<code><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure_devops.png" alt="Azure DevOps"/></code>
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure.png" alt="Azure Cloud"/> and 
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure_devops.png" alt="Azure DevOps"/>
 
 ## Favorite Games
 - Final Fantasy 14
