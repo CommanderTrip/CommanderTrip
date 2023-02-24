@@ -5,14 +5,14 @@
 ## Focus Areas
 <img align='right' src='https://quotes-github-readme.vercel.app/api?type=vertical&theme=light'>
 
-- <img alt="Kotlin"/> in <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/android.png" alt="Android"/>
-- <img alt="Typescript"/>/<img alt="Javascript"/>, <img alt="HTML"/>, <img alt="CSS"/>/<img alt="SASS"/> in <img alt="React"/>
-- <img alt="Rust"/>
+- <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/kotlin.png" alt="Kotlin"/> in <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/android.png" alt="Android"/>
+- <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/typescript.png" alt="Typescript"/>/<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/javascript.png" alt="Javascript"/>, <img alt="HTML"/>, <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/css3.png" alt="CSS"/>/<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/sass.png" alt="SASS"/> in <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/react.png" alt="React"/>
+- <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/>
 
 ## Additional Exposure Areas
 - <img alt="Java"/>
-- <img alt="C"/>/<img alt="C++"/>/<img alt="C#"/>
-- <img alt="Python"/>
+- <img alt="C"/>/<img alt="C++"/>/<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/csharp.png" alt="C#"/>
+- <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/python.png" alt="Python"/>
 - <img alt="Lua"/>
 - <img alt="R"/>
 - <img alt="Azure Cloud"/> and <img alt="Azure DevOps"/>
