@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=2493F7&width=435&lines=WELCOME%2C+I+AM+TRIP;I+AM+A+DEVELOPER;I+AM+A+STUDENT;I+AM+A+FINAL+FANTASY+14+PALADIN)](https://git.io/typing-svg)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5cxmt9466x9fvkk34btttgig7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=2493f7&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<img align='right'  src='https://spotify-github-profile.vercel.app/api/view?uid=5cxmt9466x9fvkk34btttgig7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=2493f7&bar_color_cover=false'/>
 
 ## Focus Areas
 <img align='right' width="500" src='https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/images/ffxiv-fat-cat.gif'/>
