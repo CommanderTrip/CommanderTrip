@@ -21,11 +21,7 @@
 <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/>
 
 ## Additional Exposure Areas
-<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/java.png" alt="Java"/>
-<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/python.png" alt="Python"/>
-<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/lua.png" alt="Lua"/>
-<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/r.png" alt="R"/>
-<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/unity.png" alt="Unity"/>
+<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/java.png" alt="Java"/><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/python.png" alt="Python"/><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/lua.png" alt="Lua"/><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/r.png" alt="R"/><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/unity.png" alt="Unity"/>
 
 <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c.png" alt="C"/> /
 <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c%2B%2B.png" alt="C++"/> /
