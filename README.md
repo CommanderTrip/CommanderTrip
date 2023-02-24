@@ -10,13 +10,13 @@
 - <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/>
 
 ## Additional Exposure Areas
-- <img alt="Java"/>
-- <img alt="C"/>/<img alt="C++"/>/<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/csharp.png" alt="C#"/>
+- <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/java.png" alt="Java"/>
+- <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c.png" alt="C"/>/<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c%2B%2B.png" alt="C++"/>/<img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/csharp.png" alt="C#"/>
 - <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/python.png" alt="Python"/>
-- <img alt="Lua"/>
-- <img alt="R"/>
-- <img alt="Azure Cloud"/> and <img alt="Azure DevOps"/>
-- <img alt="Unity"/>
+- <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/lua.png" alt="Lua"/>
+- <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/r.png" alt="R"/>
+- <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure.png" alt="Azure Cloud"/> and <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure_devops.png" alt="Azure DevOps"/>
+- <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/unity.png" alt="Unity"/>
 
 ## Favorite Games
 - Final Fantasy 14
