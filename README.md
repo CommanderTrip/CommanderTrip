@@ -5,7 +5,7 @@
 ## Focus Areas
 <img align='right' src='https://quotes-github-readme.vercel.app/api?type=vertical&theme=light'>
 
-- <img alt="Kotlin"/> in <img alt="Android"/>
+- <img alt="Kotlin"/> in <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/android.png" alt="Android"/>
 - <img alt="Typescript"/>/<img alt="Javascript"/>, <img alt="HTML"/>, <img alt="CSS"/>/<img alt="SASS"/> in <img alt="React"/>
 - <img alt="Rust"/>
 
@@ -29,6 +29,5 @@
 <!--END_SECTION:waka-->
 
 ## Github Stats
-![Trip's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=CommanderTrip&show_icons=true&theme=transparent#gh-dark-mode-only)
-![Trip's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=CommanderTrip&show_icons=true&theme=default#gh-light-mode-only)
+![Trip's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommanderTrip&show_icons=true&theme=default)
 
