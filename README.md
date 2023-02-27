@@ -21,11 +21,11 @@
 <a href="https://www.rust-lang.org/learn"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/></a>
 
 ## Additional Exposure Areas
-<a href="https://www.java.com/en/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/java.png" alt="Java"/></a> <a href="https://www.python.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/python.png" alt="Python"/></a> <a href="https://www.lua.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/lua.png" alt="Lua"/></a> <a href="https://www.r-project.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/r.png" alt="R"/></a> <a href="https://unity.com/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/unity.png" alt="Unity"/></a>
+<a href="https://www.java.com/en/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/java.png" alt="Java"/></a> <a href="https://www.python.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/python.png" alt="Python"/></a> <a href="https://www.lua.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/lua.png" alt="Lua"/></a> <a href="https://www.r-project.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/r.png" alt="R"/></a>
 
 <a href="https://www.w3schools.com/c/c_intro.php"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c.png" alt="C"/> <a href="https://www.w3schools.com/cpp/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c%2B%2B.png" alt="C++"/></a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/csharp.png" alt="C#"/></a>
 
-<a href="https://azure.microsoft.com/en-us"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure.png" alt="Azure Cloud"/></a> <a href="https://azure.microsoft.com/en-us/products/devops"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure_devops.png" alt="Azure DevOps"/></a>
+<a href="https://azure.microsoft.com/en-us"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure.png" alt="Azure Cloud"/></a> <a href="https://azure.microsoft.com/en-us/products/devops"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure_devops.png" alt="Azure DevOps"/></a> <a href="https://unity.com/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/unity.png" alt="Unity"/></a>
 
 ## Favorite Games
 - Final Fantasy 14
