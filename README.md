@@ -36,4 +36,4 @@
 
 ## Stats
 ![Trip's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommanderTrip&show_icons=true&theme=default)
-![Trip's Waka stats](https://wakatime.com/share/@5489f29b-196b-474d-b72a-77e0d696273c/d10ff7be-5c47-4757-bfc6-26b3b0e883d6.png)
+<figure><embed src="https://wakatime.com/share/@5489f29b-196b-474d-b72a-77e0d696273c/17bba4c7-2961-4eb0-aaa0-f946c2f209a2.svg"></embed></figure>
