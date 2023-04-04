@@ -5,7 +5,7 @@
 ## Focus Areas
 <img align='right' width="500" src='https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/images/ffxiv-fat-cat.gif'/>
 
-### Mobile
+### ~~Mobile~~ Nah 
 <a href="https://kotlinlang.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/kotlin.png" alt="Kotlin"/></a> in 
 <a href="https://developer.android.com/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/android.png" alt="Android"/></a>
 
@@ -18,7 +18,7 @@
 <a href="https://reactjs.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/react.png" alt="React"/></a>
 
 ### Desktop
-<a href="https://www.rust-lang.org/learn"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/></a>
+<a href="https://www.rust-lang.org/learn"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/></a> and OpenGL
 
 ## Additional Exposure Areas
 <a href="https://www.java.com/en/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/java.png" alt="Java"/></a> <a href="https://www.python.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/python.png" alt="Python"/></a> <a href="https://www.lua.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/lua.png" alt="Lua"/></a> <a href="https://www.r-project.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/r.png" alt="R"/></a>
