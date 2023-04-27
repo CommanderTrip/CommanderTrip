@@ -15,11 +15,11 @@
 <a href="https://sass-lang.com/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/sass.png" alt="SASS"/></a> in
 <a href="https://reactjs.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/react.png" alt="React"/></a>
 
-Exploring WASM with Yew and Rust
+Exploring <a href="https://webassembly.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/wasm.png" alt="WASM"/></a> with <a href="https://yew.rs/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/yew.png" alt="Yew"/></a> and <a href="https://www.rust-lang.org/learn"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/></a>
 
 ### Desktop
 
-<a href="https://www.rust-lang.org/learn"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/></a> and OpenGL
+<a href="https://www.rust-lang.org/learn"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/></a> and <a href="https://www.opengl.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/opengl.png" alt="OpenGL"/></a>
 
 ### ~~Mobile~~ Not a fan of Android Development
 
@@ -28,7 +28,7 @@ Exploring WASM with Yew and Rust
 
 ## Additional Exposure Areas
 
-<a href="https://www.java.com/en/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/java.png" alt="Java"/></a> <a href="https://www.python.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/python.png" alt="Python"/></a> <a href="https://www.lua.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/lua.png" alt="Lua"/></a> <a href="https://www.r-project.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/r.png" alt="R"/></a>
+<a href="https://www.java.com/en/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/java.png" alt="Java"/></a> <a href="https://www.python.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/python.png" alt="Python"/></a> <a href="https://www.lua.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/lua.png" alt="Lua"/></a>
 
 <a href="https://www.w3schools.com/c/c_intro.php"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c.png" alt="C"/> <a href="https://www.w3schools.com/cpp/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c%2B%2B.png" alt="C++"/></a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/csharp.png" alt="C#"/></a>
 
