@@ -14,82 +14,57 @@
 <a href="https://www.w3schools.com/css/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/css3.png" alt="CSS"/></a> /
 <a href="https://sass-lang.com/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/sass.png" alt="SASS"/></a> in
 <a href="https://vuejs.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/vue-js.png" alt="Vue"/></a>
+
 Also exploring Razor Pages and Blazor!
 
 ### Desktop
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/csharp.png" alt="C#"/>
-</a> and 
-<a href="https://learn.microsoft.com/en-us/dotnet/fundamentals/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/dotnet.png" alt=".NET" />
-</a> - Mostly API work.
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/csharp.png" alt="C#"/></a> and 
+<a href="https://learn.microsoft.com/en-us/dotnet/fundamentals/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/dotnet.png" alt=".NET" /></a> 
+
+Mostly API work.
 
 ### Mobile
 
-<a href="https://kotlinlang.org/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/kotlin.png" alt="Kotlin"/>
-</a> and 
-<a href="https://www.java.com/en/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/java.png" alt="Java"/>
-</a> in
-<a href="https://developer.android.com/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/android.png" alt="Android"/>
-</a> - I want to explore MAUI!
+<a href="https://kotlinlang.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/kotlin.png" alt="Kotlin"/></a> and 
+<a href="https://www.java.com/en/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/java.png" alt="Java"/></a> in
+<a href="https://developer.android.com/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/android.png" alt="Android"/></a>
+
+I want to explore MAUI!
 
 ## The Dream Areas (What I want to use more)
 
-<a href="https://webassembly.org/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/wasm.png" alt="WASM"/>
-</a> with 
-<a href="https://yew.rs/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/yew.png" alt="Yew"/>
-</a> and 
-<a href="https://www.rust-lang.org/learn">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/>
-</a> - Rust in general too!
+<a href="https://webassembly.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/wasm.png" alt="WASM"/></a> with 
+<a href="https://yew.rs/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/yew.png" alt="Yew"/></a> and 
+<a href="https://www.rust-lang.org/learn"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/></a>
+
+Rust in general too!
 
 <br/>
 
-<a href="https://www.w3schools.com/cpp/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c%2B%2B.png" alt="C++"/>
-</a> or 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/csharp.png" alt="C#"/>
-</a> - Ideally to make games!
+<a href="https://www.w3schools.com/cpp/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c%2B%2B.png" alt="C++"/></a> or 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/csharp.png" alt="C#"/></a>
+
+Ideally to make games!
 
 ## Additional Exposure Areas (What I Have Used)
 
-<a href="https://www.opengl.org/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/opengl.png" alt="OpenGL"/>
-</a> - Want to do more!
+<a href="https://www.opengl.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/opengl.png" alt="OpenGL"/></a> - Want to do more!
 
 <br/>
 
-<a href="https://reactjs.org/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/react.png" alt="React"/>
-</a> - My first expereince into Webdev!
+<a href="https://reactjs.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/react.png" alt="React"/></a> - My first expereince into Webdev!
 
 <br/>
 
-<a href="https://www.python.org/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/python.png" alt="Python"/>
-</a>
-<a href="https://www.lua.org/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/lua.png" alt="Lua"/>
-</a>
+<a href="https://www.python.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/python.png" alt="Python"/></a>
+<a href="https://www.lua.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/lua.png" alt="Lua"/></a>
 
 <br/>
 
-<a href="https://azure.microsoft.com/en-us">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure.png" alt="Azure Cloud"/>
-</a> 
-<a href="https://azure.microsoft.com/en-us/products/devops">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure_devops.png" alt="Azure DevOps"/>
-</a>
-<a href="https://unity.com/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/unity.png" alt="Unity"/>
-</a>
+<a href="https://azure.microsoft.com/en-us"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure.png" alt="Azure Cloud"/></a> 
+<a href="https://azure.microsoft.com/en-us/products/devops"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure_devops.png" alt="Azure DevOps"/></a>
+<a href="https://unity.com/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/unity.png" alt="Unity"/></a>
 
 ## Favorite Games
 
