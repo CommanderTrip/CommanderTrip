@@ -8,9 +8,7 @@
 
 ### Web Dev Front-End
 
-<a href="https://www.typescriptlang.org/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/typescript.png" alt="Typescript"/>
-</a>/
+<a href="https://www.typescriptlang.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/typescript.png" alt="Typescript"/></a>/
 <a href="https://www.javascript.com/">
     <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/javascript.png" alt="Javascript"/>
 </a>,
@@ -24,7 +22,7 @@
     <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/sass.png" alt="SASS"/>
 </a> in
 <a href="https://vuejs.org/">
-    <img src="" alt="Vue"/>
+    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/vue-js.png" alt="Vue"/>
 </a>
 
 Also exploring Razor Pages and Blazor!
@@ -33,9 +31,9 @@ Also exploring Razor Pages and Blazor!
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/csharp.png" alt="C#"/>
-</a>
+</a> and 
 <a href="https://learn.microsoft.com/en-us/dotnet/fundamentals/">
-    <img src="" alt=".NET" />
+    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/dotnet.png" alt=".NET" />
 </a> - Mostly API work.
 
 ### Mobile
@@ -61,6 +59,7 @@ Also exploring Razor Pages and Blazor!
 <a href="https://www.rust-lang.org/learn">
     <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/>
 </a> - Rust in general too!
+
 
 <a href="https://www.w3schools.com/cpp/">
     <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c%2B%2B.png" alt="C++"/>
