@@ -8,23 +8,12 @@
 
 ### Web Dev Front-End
 
-<a href="https://www.typescriptlang.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/typescript.png" alt="Typescript"/></a>/
-<a href="https://www.javascript.com/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/javascript.png" alt="Javascript"/>
-</a>,
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/html5.png" alt="HTML"/>
-</a>,
-<a href="https://www.w3schools.com/css/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/css3.png" alt="CSS"/>
-</a>/
-<a href="https://sass-lang.com/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/sass.png" alt="SASS"/>
-</a> in
-<a href="https://vuejs.org/">
-    <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/vue-js.png" alt="Vue"/>
-</a>
-
+<a href="https://www.typescriptlang.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/typescript.png" alt="Typescript"/></a> /
+<a href="https://www.javascript.com/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/javascript.png" alt="Javascript"/></a> ,
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/html5.png" alt="HTML"/></a> ,
+<a href="https://www.w3schools.com/css/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/css3.png" alt="CSS"/></a> /
+<a href="https://sass-lang.com/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/sass.png" alt="SASS"/></a> in
+<a href="https://vuejs.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/vue-js.png" alt="Vue"/></a>
 Also exploring Razor Pages and Blazor!
 
 ### Desktop
@@ -60,6 +49,7 @@ Also exploring Razor Pages and Blazor!
     <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/>
 </a> - Rust in general too!
 
+<br/>
 
 <a href="https://www.w3schools.com/cpp/">
     <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c%2B%2B.png" alt="C++"/>
@@ -74,10 +64,13 @@ Also exploring Razor Pages and Blazor!
     <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/opengl.png" alt="OpenGL"/>
 </a> - Want to do more!
 
+<br/>
+
 <a href="https://reactjs.org/">
     <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/react.png" alt="React"/>
 </a> - My first expereince into Webdev!
 
+<br/>
 
 <a href="https://www.python.org/">
     <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/python.png" alt="Python"/>
@@ -86,7 +79,7 @@ Also exploring Razor Pages and Blazor!
     <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/lua.png" alt="Lua"/>
 </a>
 
-<a href="https://www.w3schools.com/cpp/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c%2B%2B.png" alt="C++"/></a> 
+<br/>
 
 <a href="https://azure.microsoft.com/en-us">
     <img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/azure.png" alt="Azure Cloud"/>
