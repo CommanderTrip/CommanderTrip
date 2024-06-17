@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=2493F7&width=435&lines=WELCOME%2C+I+AM+TRIP;I+AM+A+DEVELOPER;I+AM+A+STUDENT;I+AM+A+FINAL+FANTASY+14+PALADIN)](https://git.io/typing-svg)
 
-<a href="https://app.daily.dev/trip"><img src="https://api.daily.dev/devcards/v2/B23cGS0iK6nr2SQ91SjqN.png?type=default&r=8cm" width="356" alt="Trip's Dev Card"/></a>
-
 ## The Focus Area (What I use Today)
 
 <img align='right' width="500" src='https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/images/ffxiv-fat-cat.gif'/>
