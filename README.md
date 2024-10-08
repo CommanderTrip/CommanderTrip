@@ -54,9 +54,9 @@ I want to explore MAUI!
 ## Favorite Games
 
 - Final Fantasy 14
+- Halo
+- League of Legends
 - Starfield
 - Warhammer 40k: Darktide
-- Halo
 - Forza and Gran Turismo
-- League of Legends
 - Destiny :(
