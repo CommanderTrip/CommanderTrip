@@ -32,13 +32,8 @@ I want to explore MAUI!
 
 ## The Dream Areas (What I want to use more)
 
-<a href="https://webassembly.org/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/wasm.png" alt="WASM"/></a> with 
-<a href="https://yew.rs/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/yew.png" alt="Yew"/></a> and 
-<a href="https://www.rust-lang.org/learn"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/></a> - Rust in general too!
-
-
-<a href="https://www.w3schools.com/cpp/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c%2B%2B.png" alt="C++"/></a> or 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/csharp.png" alt="C#"/></a> - Ideally to make games!
+<a href="https://www.rust-lang.org/learn"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/rust.png" alt="Rust"/></a>/
+<a href="https://www.w3schools.com/cpp/"><img src="https://github.com/CommanderTrip/CommanderTrip/blob/main/assets/icons/c%2B%2B.png" alt="C++"/></a> with Vulkan! 
 
 ## Additional Exposure Areas (What I Have Used)
 
