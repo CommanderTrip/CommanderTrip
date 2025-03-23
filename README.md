@@ -4,6 +4,7 @@
 
 My name is Trip! I am a full-time software engineer and graduate student. I strive to find that perfect balance stress in life, so you can find me either grinding the 9-5, studying for classes, outside on a hike, playing with technology projects, or savage raiding on Final Fantasy 14! Big fan of FOSS, and trying to learn more everyday to make my way to the dream life! 
 
+---
 
 ### Web Dev
 
@@ -24,6 +25,8 @@ My name is Trip! I am a full-time software engineer and graduate student. I stri
 ![C#](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=.net&logoColor=white&link=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fdotnet%2Fcsharp%2F)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=Tauri&logoColor=white&link=https%3A%2F%2Fv2.tauri.app%2F)
+
+
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=AutoHotkey&logoColor=white&link=https%3A%2F%2Fwww.autohotkey.com%2F)
 ![Unity](https://img.shields.io/badge/Unity-8d8d8d?style=for-the-badge&logo=unity&logoColor=white&link=https%3A%2F%2Funity.com%2F)
 ![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch%20linux&logoColor=white&link=https%3A%2F%2Farchlinux.org%2F)
